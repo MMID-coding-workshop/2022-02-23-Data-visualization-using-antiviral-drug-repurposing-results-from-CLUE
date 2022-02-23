@@ -5,4 +5,6 @@ Workshop guide by MacKenzie Wilke (sarvism@myumanitoba.ca)
 
 Workshop lecture (February 23, 2022) video will be available on YouTube at 
 
-Workshop dataset, R script, and R markdown are created by MacKenzie as part of this workshop.
+Workshop dataset are from Josset et al., 2010. Gene Expression Signature-Based Screening Identifies New Broadly Effective Influenza A Antivirals. doi: https://doi.org/10.1371/journal.pone.0013169.
+
+Workshop R script and R markdown are created by MacKenzie as part of this workshop.
